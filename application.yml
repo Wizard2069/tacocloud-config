@@ -5,3 +5,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka
+      
+spring:
+  data:
+    mongodb:
+      password: '{cipher}AQARrC04+EwptFuaedcKbs+m/XBsZz+0JexwvQnJ+gW6cwWLKNj7GwGj4Px6kF2IjBAH7OF2L4/tb++qvTF/pOHsl/J84fZylse69iOqA9ulsWYqeE/37KFgLidayvPY6wlJpcjZ9kak6gi2I9gZwKHsN4EoBxCKCZst6KNk0pVTqyi0K9tCFFQ2XBXNwbjeQkJeRj838Oi765C2luTJsHsxAapCUMd4DMjEp47+EXfz4sPqwRWK8Pylt41ORfMDkkJppQcpbNvwEA6Q6Or77D7D4mTPHhCuoSp8ZCqhyLb5TyDltw0BPyoRjRBObF9i0BmhtwE2yPyDe2RaTZg+7xptI7qk8iNvdTMX+MVt5dRmvZf6gG9yWxMtZYxtJlwzSoo='
